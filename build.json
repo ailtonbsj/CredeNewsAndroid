@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./credenews.keystore",
+            "storePassword": "p2t0r0c9",
+            "alias": "CredeNewsApp",
+            "password": "p2t0r0c9",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "./credenews.keystore",
+            "storePassword": "p2t0r0c9",
+            "alias": "CredeNewsApp",
+            "password": "p2t0r0c9",
+            "keystoreType": ""
+        }
+    }
+}
