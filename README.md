@@ -43,3 +43,9 @@ cordova build --prod --release
 - NPM
 - Android Studio
 - Cordova
+
+# Telas
+![tela4](googlePlay/4.png)
+<img src="googlePlay/0.png" alt="tela 0" width="270px" />
+<img src="googlePlay/1.png" alt="tela 0" width="270px" />
+<img src="googlePlay/2.png" alt="tela 0" width="270px" />
